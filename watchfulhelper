@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WatchfulHelper - Інга</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #E0F7FA;
+            color: #37474F;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            background-color: #FFFFFF;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        header {
+            text-align: center;
+            padding: 50px 0;
+        }
+        header img {
+            max-width: 100px;
+        }
+        header h1 {
+            margin: 20px 0 10px;
+            font-size: 2em;
+            color: #00796B;
+        }
+        section {
+            margin: 20px 0;
+        }
+        .contacts a {
+            color: #00796B;
+            text-decoration: none;
+            display: inline-block;
+            margin: 10px 0;
+        }
+        .contacts a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            text-align: center;
+            padding: 20px 0;
+            background-color: #00796B;
+            color: #FFFFFF;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4SMwRXhpZgAATU0AKgAAAAgABQEaAAUAAAABAAAASgEbAAUAAAABAAAAUgEoAAMAAAABAAIA" alt="Watchful Helper">
+        <h1>WatchfulHelper</h1>
+    </header>
+    <div class="container">
+        <section>
+            <h2>Про мене</h2>
+            <p>Мене звати Інга, я маю вищу магістерську освіту в галузі психології. Також додаткові знання в різних напрямках психології (дипломи та сертифікати можна переглянути в профілі). Працюю в приватному освітньому центрі корекційним психологом, маю досвід роботи з дітьми з синдромами аутистичного спектру, РДУГ, ООП. Окрім цього веду особисті консультації онлайн з дорослими та дітьми. Також навчаюсь когнітивно поведінковій терапії.</p>
+        </section>
+        <section>
+            <h2>Контакти</h2>
+            <p>Номер телефону: <a href="tel:+380936064660">+380 93 606 46 60</a></p>
+            <p>Посилання на анкету для запису: <a href="https://docs.google.com/forms/d/e/1FAIpQLSdLRESatK_oKU9q-bQcs_KbLIu-Y5tLyy0R4MDBemzpKu3IAg/viewform" target="_blank">Анкета для запису</a></p>
+            <p>Соціальні мережі: <a href="https://www.instagram.com/watchfulhelper?igsh=b2piaDdtbGYwcHJo" target="_blank">Instagram</a></p>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2024 WatchfulHelper. Всі права захищені.</p>
+    </footer>
+</body>
+</html>
